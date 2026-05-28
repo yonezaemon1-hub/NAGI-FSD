@@ -23,3 +23,17 @@ PI measures how much the rank ordering of execution times deviates from stabilit
 ## Analysis Results
 
 ![PI Analysis](pi_analysis.png)
+
+## FSD Realtime Monitor
+
+`fsd_realtime.py` implements a realtime collapse monitor:
+
+- Tracks PI per block in real time
+- Detects sustained collapse (3+ consecutive high-PI blocks)
+- Outputs NORMAL / DEGRADED / COLLAPSE / SUSTAINED COLLAPSE
+
+### Sample Output (GTX 1070)
+- Mean PI: 0.937
+- Collapse rate: 90.0%
+- Sustained collapse alerts: 19/30 blocks
+- Final status: CRITICAL
