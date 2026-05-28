@@ -1,0 +1,126 @@
+{
+  "timestamp": "2026-05-28T16:42:50.984197",
+  "device": "NVIDIA GeForce GTX 1070",
+  "blocks": [
+    {
+      "block": 1,
+      "pi": 1.0,
+      "sync_drift_mean_ms": 4.98913999999786,
+      "vram_mean_mb": 56.125
+    },
+    {
+      "block": 2,
+      "pi": 0.8,
+      "sync_drift_mean_ms": 5.175500000041211,
+      "vram_mean_mb": 56.125
+    },
+    {
+      "block": 3,
+      "pi": 1.0,
+      "sync_drift_mean_ms": 4.672039999968547,
+      "vram_mean_mb": 56.125
+    },
+    {
+      "block": 4,
+      "pi": 1.0,
+      "sync_drift_mean_ms": 4.268389999742794,
+      "vram_mean_mb": 56.125
+    },
+    {
+      "block": 5,
+      "pi": 1.0,
+      "sync_drift_mean_ms": 4.201250000187429,
+      "vram_mean_mb": 56.125
+    },
+    {
+      "block": 6,
+      "pi": 0.8,
+      "sync_drift_mean_ms": 4.243060000044352,
+      "vram_mean_mb": 56.125
+    },
+    {
+      "block": 7,
+      "pi": 0.7,
+      "sync_drift_mean_ms": 4.147739999916666,
+      "vram_mean_mb": 56.125
+    },
+    {
+      "block": 8,
+      "pi": 0.8,
+      "sync_drift_mean_ms": 4.217120000248542,
+      "vram_mean_mb": 56.125
+    },
+    {
+      "block": 9,
+      "pi": 0.9,
+      "sync_drift_mean_ms": 4.142289999981585,
+      "vram_mean_mb": 56.125
+    },
+    {
+      "block": 10,
+      "pi": 0.8,
+      "sync_drift_mean_ms": 4.1932099999939965,
+      "vram_mean_mb": 56.125
+    },
+    {
+      "block": 11,
+      "pi": 1.0,
+      "sync_drift_mean_ms": 4.192740000053163,
+      "vram_mean_mb": 56.125
+    },
+    {
+      "block": 12,
+      "pi": 0.8,
+      "sync_drift_mean_ms": 4.187680000177352,
+      "vram_mean_mb": 56.125
+    },
+    {
+      "block": 13,
+      "pi": 0.8,
+      "sync_drift_mean_ms": 4.228949999924225,
+      "vram_mean_mb": 56.125
+    },
+    {
+      "block": 14,
+      "pi": 0.8,
+      "sync_drift_mean_ms": 4.131539999980305,
+      "vram_mean_mb": 56.125
+    },
+    {
+      "block": 15,
+      "pi": 0.9,
+      "sync_drift_mean_ms": 4.135169999790378,
+      "vram_mean_mb": 56.125
+    },
+    {
+      "block": 16,
+      "pi": 1.0,
+      "sync_drift_mean_ms": 4.115430000001652,
+      "vram_mean_mb": 56.125
+    },
+    {
+      "block": 17,
+      "pi": 0.9,
+      "sync_drift_mean_ms": 4.245859999991808,
+      "vram_mean_mb": 56.125
+    },
+    {
+      "block": 18,
+      "pi": 0.9,
+      "sync_drift_mean_ms": 4.201600000124017,
+      "vram_mean_mb": 56.125
+    },
+    {
+      "block": 19,
+      "pi": 1.0,
+      "sync_drift_mean_ms": 4.30908999978783,
+      "vram_mean_mb": 56.125
+    },
+    {
+      "block": 20,
+      "pi": 0.9,
+      "sync_drift_mean_ms": 4.243849999966187,
+      "vram_mean_mb": 56.125
+    }
+  ]
+}

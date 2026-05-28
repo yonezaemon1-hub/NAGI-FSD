@@ -1,0 +1,47 @@
+{
+  "timestamp": "2026-05-28T16:39:19.290280",
+  "device": "NVIDIA GeForce GTX 1070",
+  "matrix_size": 2048,
+  "blocks": [
+    {
+      "block": 1,
+      "step_start": 1,
+      "step_end": 10,
+      "mean_ms": 8.80079000007754,
+      "stdev_ms": 10.501446715998359,
+      "pi": 0.8
+    },
+    {
+      "block": 2,
+      "step_start": 11,
+      "step_end": 20,
+      "mean_ms": 5.452780000086932,
+      "stdev_ms": 0.07767965239302141,
+      "pi": 0.8
+    },
+    {
+      "block": 3,
+      "step_start": 21,
+      "step_end": 30,
+      "mean_ms": 4.892080000081478,
+      "stdev_ms": 0.11042655467982232,
+      "pi": 0.8
+    },
+    {
+      "block": 4,
+      "step_start": 31,
+      "step_end": 40,
+      "mean_ms": 4.856319999998959,
+      "stdev_ms": 0.03163481903191278,
+      "pi": 0.9
+    },
+    {
+      "block": 5,
+      "step_start": 41,
+      "step_end": 50,
+      "mean_ms": 4.774719999932131,
+      "stdev_ms": 0.16835061828704692,
+      "pi": 0.9
+    }
+  ]
+}

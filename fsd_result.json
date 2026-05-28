@@ -1,0 +1,10 @@
+{
+  "timestamp": "2026-05-28T16:18:45.301146",
+  "device": "NVIDIA GeForce GTX 1070",
+  "step_time_mean_ms": 12.949040000057721,
+  "step_time_stdev_ms": 48.56625302132392,
+  "sync_drift_mean_ms": 5.394120000037219,
+  "sync_drift_stdev_ms": 0.3332719157152303,
+  "vram_mean_mb": 56.125,
+  "permutation_instability": 0.96
+}

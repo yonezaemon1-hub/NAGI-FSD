@@ -1,0 +1,168 @@
+{
+  "timestamp": "2026-05-28T16:41:08.204440",
+  "device": "NVIDIA GeForce GTX 1070",
+  "matrix_size": 2048,
+  "n_steps": 200,
+  "blocks": [
+    {
+      "block": 1,
+      "step_start": 1,
+      "step_end": 10,
+      "mean_ms": 8.70600000007471,
+      "stdev_ms": 10.040807582235823,
+      "pi": 1.0
+    },
+    {
+      "block": 2,
+      "step_start": 11,
+      "step_end": 20,
+      "mean_ms": 5.543760000000475,
+      "stdev_ms": 0.05400802827724651,
+      "pi": 0.9
+    },
+    {
+      "block": 3,
+      "step_start": 21,
+      "step_end": 30,
+      "mean_ms": 5.4548399999475805,
+      "stdev_ms": 0.25029573248634274,
+      "pi": 0.9
+    },
+    {
+      "block": 4,
+      "step_start": 31,
+      "step_end": 40,
+      "mean_ms": 4.525310000008176,
+      "stdev_ms": 0.08367809271152704,
+      "pi": 0.8
+    },
+    {
+      "block": 5,
+      "step_start": 41,
+      "step_end": 50,
+      "mean_ms": 4.532740000013291,
+      "stdev_ms": 0.022366850334029447,
+      "pi": 0.9
+    },
+    {
+      "block": 6,
+      "step_start": 51,
+      "step_end": 60,
+      "mean_ms": 4.5278099999450205,
+      "stdev_ms": 0.03646866064658694,
+      "pi": 1.0
+    },
+    {
+      "block": 7,
+      "step_start": 61,
+      "step_end": 70,
+      "mean_ms": 4.495420000148442,
+      "stdev_ms": 0.021291824364122344,
+      "pi": 0.8
+    },
+    {
+      "block": 8,
+      "step_start": 71,
+      "step_end": 80,
+      "mean_ms": 4.563800000050833,
+      "stdev_ms": 0.1334366098616892,
+      "pi": 0.9
+    },
+    {
+      "block": 9,
+      "step_start": 81,
+      "step_end": 90,
+      "mean_ms": 4.519000000072992,
+      "stdev_ms": 0.10713164273650236,
+      "pi": 0.9
+    },
+    {
+      "block": 10,
+      "step_start": 91,
+      "step_end": 100,
+      "mean_ms": 4.495020000013028,
+      "stdev_ms": 0.10708841406979071,
+      "pi": 0.8
+    },
+    {
+      "block": 11,
+      "step_start": 101,
+      "step_end": 110,
+      "mean_ms": 4.4964700000491575,
+      "stdev_ms": 0.10858833644526374,
+      "pi": 0.7
+    },
+    {
+      "block": 12,
+      "step_start": 111,
+      "step_end": 120,
+      "mean_ms": 4.48590999994849,
+      "stdev_ms": 0.10919857995145602,
+      "pi": 0.7
+    },
+    {
+      "block": 13,
+      "step_start": 121,
+      "step_end": 130,
+      "mean_ms": 4.486559999986639,
+      "stdev_ms": 0.08615776495030117,
+      "pi": 0.7
+    },
+    {
+      "block": 14,
+      "step_start": 131,
+      "step_end": 140,
+      "mean_ms": 4.4568999999683,
+      "stdev_ms": 0.041702464684300396,
+      "pi": 0.9
+    },
+    {
+      "block": 15,
+      "step_start": 141,
+      "step_end": 150,
+      "mean_ms": 4.468850000012026,
+      "stdev_ms": 0.05469085357575721,
+      "pi": 1.0
+    },
+    {
+      "block": 16,
+      "step_start": 151,
+      "step_end": 160,
+      "mean_ms": 4.460799999833398,
+      "stdev_ms": 0.057894252356898164,
+      "pi": 0.9
+    },
+    {
+      "block": 17,
+      "step_start": 161,
+      "step_end": 170,
+      "mean_ms": 4.481980000036856,
+      "stdev_ms": 0.12123556315523862,
+      "pi": 1.0
+    },
+    {
+      "block": 18,
+      "step_start": 171,
+      "step_end": 180,
+      "mean_ms": 4.49255000003177,
+      "stdev_ms": 0.10477175447973204,
+      "pi": 1.0
+    },
+    {
+      "block": 19,
+      "step_start": 181,
+      "step_end": 190,
+      "mean_ms": 4.481319999922562,
+      "stdev_ms": 0.08252635677842332,
+      "pi": 1.0
+    },
+    {
+      "block": 20,
+      "step_start": 191,
+      "step_end": 200,
+      "mean_ms": 4.457210000055056,
+      "stdev_ms": 0.021021229864520777,
+      "pi": 0.8
+    }
+  ]
+}
