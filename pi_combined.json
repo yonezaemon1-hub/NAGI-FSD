@@ -1,0 +1,7 @@
+{
+  "timestamp": "2026-05-28T18:14:51.081125",
+  "device": "NVIDIA GeForce GTX 1070",
+  "cpu_only_accuracy": 50.0,
+  "sync_only_accuracy": 44.44444444444444,
+  "combined_accuracy": 44.44444444444444
+}

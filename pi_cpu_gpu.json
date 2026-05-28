@@ -1,0 +1,146 @@
+{
+  "timestamp": "2026-05-28T18:06:29.329794",
+  "device": "NVIDIA GeForce GTX 1070",
+  "blocks": [
+    {
+      "block": 1,
+      "pi": 1.0,
+      "cpu_launch_mean_ms": 3.6649999996370752,
+      "gpu_wait_mean_ms": 4.979380000077072,
+      "ratio": 0.7360354099466897
+    },
+    {
+      "block": 2,
+      "pi": 0.9,
+      "cpu_launch_mean_ms": 0.34212000009574695,
+      "gpu_wait_mean_ms": 5.123629999980039,
+      "ratio": 0.06677297152547701
+    },
+    {
+      "block": 3,
+      "pi": 1.0,
+      "cpu_launch_mean_ms": 0.34896000015578466,
+      "gpu_wait_mean_ms": 4.915869999604183,
+      "ratio": 0.07098641749759092
+    },
+    {
+      "block": 4,
+      "pi": 1.0,
+      "cpu_launch_mean_ms": 0.32942999987426447,
+      "gpu_wait_mean_ms": 4.7004200001538265,
+      "ratio": 0.07008522639753118
+    },
+    {
+      "block": 5,
+      "pi": 1.0,
+      "cpu_launch_mean_ms": 0.33343000013701385,
+      "gpu_wait_mean_ms": 4.694549999840092,
+      "ratio": 0.07102491189749205
+    },
+    {
+      "block": 6,
+      "pi": 1.0,
+      "cpu_launch_mean_ms": 0.34476000037102494,
+      "gpu_wait_mean_ms": 4.253189999690221,
+      "ratio": 0.08105915804281853
+    },
+    {
+      "block": 7,
+      "pi": 1.0,
+      "cpu_launch_mean_ms": 0.34948999964399263,
+      "gpu_wait_mean_ms": 4.2608299998391885,
+      "ratio": 0.08202392483557969
+    },
+    {
+      "block": 8,
+      "pi": 0.9,
+      "cpu_launch_mean_ms": 0.38566000021091895,
+      "gpu_wait_mean_ms": 4.178170000341197,
+      "ratio": 0.09230356835155708
+    },
+    {
+      "block": 9,
+      "pi": 0.8,
+      "cpu_launch_mean_ms": 0.3487600004518754,
+      "gpu_wait_mean_ms": 4.112489999715763,
+      "ratio": 0.08480506955055943
+    },
+    {
+      "block": 10,
+      "pi": 0.7,
+      "cpu_launch_mean_ms": 0.34593000000313623,
+      "gpu_wait_mean_ms": 4.12389000011899,
+      "ratio": 0.08388439070711265
+    },
+    {
+      "block": 11,
+      "pi": 0.7,
+      "cpu_launch_mean_ms": 0.36075999996683095,
+      "gpu_wait_mean_ms": 4.09233000009408,
+      "ratio": 0.08815515854257533
+    },
+    {
+      "block": 12,
+      "pi": 0.9,
+      "cpu_launch_mean_ms": 0.3431199998885859,
+      "gpu_wait_mean_ms": 4.11818000011408,
+      "ratio": 0.08331835905159098
+    },
+    {
+      "block": 13,
+      "pi": 0.9,
+      "cpu_launch_mean_ms": 0.3579699998226715,
+      "gpu_wait_mean_ms": 4.116760000397335,
+      "ratio": 0.08695430381856643
+    },
+    {
+      "block": 14,
+      "pi": 0.9,
+      "cpu_launch_mean_ms": 0.3326300000480842,
+      "gpu_wait_mean_ms": 4.174379999858502,
+      "ratio": 0.07968368956811772
+    },
+    {
+      "block": 15,
+      "pi": 0.9,
+      "cpu_launch_mean_ms": 0.3419299999222858,
+      "gpu_wait_mean_ms": 4.163629999857221,
+      "ratio": 0.08212305126392384
+    },
+    {
+      "block": 16,
+      "pi": 0.9,
+      "cpu_launch_mean_ms": 0.33510000012029195,
+      "gpu_wait_mean_ms": 4.183350000312203,
+      "ratio": 0.08010326654362736
+    },
+    {
+      "block": 17,
+      "pi": 0.8,
+      "cpu_launch_mean_ms": 0.3629500002716668,
+      "gpu_wait_mean_ms": 4.140119999829039,
+      "ratio": 0.08766654113568069
+    },
+    {
+      "block": 18,
+      "pi": 0.9,
+      "cpu_launch_mean_ms": 0.3710099996169447,
+      "gpu_wait_mean_ms": 4.093890000149258,
+      "ratio": 0.09062529760287114
+    },
+    {
+      "block": 19,
+      "pi": 1.0,
+      "cpu_launch_mean_ms": 0.43489000036061043,
+      "gpu_wait_mean_ms": 4.029679999803193,
+      "ratio": 0.10792172092619022
+    },
+    {
+      "block": 20,
+      "pi": 1.0,
+      "cpu_launch_mean_ms": 0.327849999848695,
+      "gpu_wait_mean_ms": 4.113380000126199,
+      "ratio": 0.07970330964769522
+    }
+  ]
+}
