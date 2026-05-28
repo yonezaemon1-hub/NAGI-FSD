@@ -37,3 +37,10 @@ PI measures how much the rank ordering of execution times deviates from stabilit
 - Collapse rate: 90.0%
 - Sustained collapse alerts: 19/30 blocks
 - Final status: CRITICAL
+## Analysis Results
+
+### Complete Experimental Summary
+![PI Summary](pi_summary.png)
+
+### Detailed Analysis
+![PI Analysis](pi_analysis.png)
