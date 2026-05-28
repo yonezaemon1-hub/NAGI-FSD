@@ -19,3 +19,7 @@ PI measures how much the rank ordering of execution times deviates from stabilit
 - `PI = 0.0` → Stable ordering
 - `PI = 0.5` → Degraded ordering  
 - `PI = 0.9+` → Collapse of exe
+
+## Analysis Results
+
+![PI Analysis](pi_analysis.png)
